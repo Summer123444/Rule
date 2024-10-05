@@ -1,0 +1,6 @@
+DOMAIN, report.appmetrica.yandex.net, Proxy
+DOMAIN, cdp.cloud.unity3d.com, Proxy
+DOMAIN-SUFFIX,app-measurement.com,Proxy
+DOMAIN, graph.facebook.com, Proxy
+DOMAIN-KEYWORD, unity3d, Proxy
+DOMAIN-KEYWORD, facebook, Proxy
